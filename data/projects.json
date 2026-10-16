@@ -1,0 +1,86 @@
+[
+  {
+    "id": "6818784726",
+    "name": "PetStock",
+    "category": "app",
+    "label": "暮らし",
+    "sort": 1,
+    "tagline": "ペットとの毎日を、もっとシンプルに。",
+    "description": "ペット用品の在庫、お世話の予定、買い物リストをひとつにまとめて管理。",
+    "url": "https://apps.apple.com/jp/app/petstock/id6818784726",
+    "color": "#80A18C",
+    "status": "published"
+  },
+  {
+    "id": "6818180327",
+    "name": "人類の軌跡 - HUMANITY LINE",
+    "category": "game",
+    "label": "シミュレーション",
+    "sort": 2,
+    "tagline": "あなたがつくる、もう一つの人類史。",
+    "description": "紀元前1万年から未来まで、人口と文明を育てる長期シミュレーション。",
+    "url": "https://apps.apple.com/jp/app/%E4%BA%BA%E9%A1%9E%E3%81%AE%E8%BB%8C%E8%B7%A1-humanity-line/id6818180327",
+    "color": "#B1A47D",
+    "status": "published"
+  },
+  {
+    "id": "6814174395",
+    "name": "DROPDEPTH",
+    "category": "game",
+    "label": "アクション",
+    "sort": 3,
+    "tagline": "傾けて、どこまでも深く。",
+    "description": "スマホを傾けて障害物を回避。ネオンの世界を落下し続けるアクション。",
+    "url": "https://apps.apple.com/jp/app/dropdepth/id6814174395",
+    "color": "#64769F",
+    "status": "published"
+  },
+  {
+    "id": "6811752383",
+    "name": "MARBLEND",
+    "category": "game",
+    "label": "パズル",
+    "sort": 4,
+    "tagline": "転がして、混ぜて、消す。",
+    "description": "色と色を混ぜてビー玉を消す、直感操作のカラーパズル。",
+    "url": "https://apps.apple.com/jp/app/marblend/id6811752383",
+    "color": "#D79B81",
+    "status": "published"
+  },
+  {
+    "id": "6811499612",
+    "name": "BOOK YOUR BOOK",
+    "category": "app",
+    "label": "読書",
+    "sort": 5,
+    "tagline": "読書記録を、もっと楽しく。",
+    "description": "読んだ本を記録し、ページ数や読書実績を楽しめる本棚アプリ。",
+    "url": "https://apps.apple.com/jp/app/book-your-book/id6811499612",
+    "color": "#A78672",
+    "status": "published"
+  },
+  {
+    "id": "6810522979",
+    "name": "SecondIncome",
+    "category": "app",
+    "label": "お金・仕事",
+    "sort": 6,
+    "tagline": "働く時間が、収入に変わる。",
+    "description": "今日の給料と秒給をリアルタイムに可視化。Apple Watchにも対応。",
+    "url": "https://apps.apple.com/jp/app/secondincome/id6810522979",
+    "color": "#8E9B79",
+    "status": "published"
+  },
+  {
+    "id": "6810459357",
+    "name": "MeScene",
+    "category": "app",
+    "label": "AI・SNS",
+    "sort": 7,
+    "tagline": "誰にも見られない、あなただけのSNS。",
+    "description": "投稿にAIがコメントやリアクション。自分だけのSNS世界を楽しむ。",
+    "url": "https://apps.apple.com/jp/app/mescene/id6810459357",
+    "color": "#B18FBE",
+    "status": "published"
+  }
+]
